@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Superstore-Sales-SQL-Data-Analysis", "..\..\..\..\..\..\Documents\SQL Server Management Studio\Superstore-Sales-SQL-Data-Analysis\Superstore-Sales-SQL-Data-Analysis.ssmssqlproj", "{BEC9909F-7E78-4353-A69F-DAAA5E0F8C79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E1FE44F-64C2-4E63-A4AA-AE425DFEE2CE}.Default|Default.ActiveCfg = Default
+		{BEC9909F-7E78-4353-A69F-DAAA5E0F8C79}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F59D7647-6943-48BB-9CDB-7A270AE4AF5C}
+	EndGlobalSection
+EndGlobal
